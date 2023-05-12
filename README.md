@@ -14,7 +14,7 @@ La prédiction sera basée sur les caractéristiques structurelles des bâtiment
 L'intérêt de l'"**ENERGY STAR Score**" pour la prédiction des émissions sera également évalué. Il s'agit d'une mesure fastidieuse à calculer avec l'approche actuelle de l'équipe, mais elle sera intégrée à la modélisation pour évaluer sa pertinence.
 
 La mission comprend:
-* Une analyse exploratoire succincte
+* Une analyse exploratoire 
 * Des tests de différents modèles de prédiction pour répondre au mieux à la problématique
 * Une évaluation rigoureuse des performances de la régression
 
